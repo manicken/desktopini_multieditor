@@ -1,0 +1,9 @@
+C:\git\desktopini_multieditor\desktopini_multieditor\desktopini_multieditor\bin\Debug\desktopini_multieditor.exe.config
+C:\git\desktopini_multieditor\desktopini_multieditor\desktopini_multieditor\bin\Debug\desktopini_multieditor.exe
+C:\git\desktopini_multieditor\desktopini_multieditor\desktopini_multieditor\bin\Debug\desktopini_multieditor.pdb
+C:\git\desktopini_multieditor\desktopini_multieditor\desktopini_multieditor\obj\Debug\desktopini_multieditor.csproj.AssemblyReference.cache
+C:\git\desktopini_multieditor\desktopini_multieditor\desktopini_multieditor\obj\Debug\desktopini_multieditor.Properties.Resources.resources
+C:\git\desktopini_multieditor\desktopini_multieditor\desktopini_multieditor\obj\Debug\desktopini_multieditor.csproj.GenerateResource.cache
+C:\git\desktopini_multieditor\desktopini_multieditor\desktopini_multieditor\obj\Debug\desktopini_multieditor.csproj.CoreCompileInputs.cache
+C:\git\desktopini_multieditor\desktopini_multieditor\desktopini_multieditor\obj\Debug\desktopini_multieditor.exe
+C:\git\desktopini_multieditor\desktopini_multieditor\desktopini_multieditor\obj\Debug\desktopini_multieditor.pdb
